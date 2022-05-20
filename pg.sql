@@ -1,5 +1,4 @@
 
-/*
 -- create a function when trigger happens
     CREATE OR REPLACE FUNCTION {{FUNCTION NAME}}()
         returns trigger 
@@ -20,4 +19,3 @@
 -- Drop a trigger query
     -- DROP TRIGGER {{trigger NAME}} ON {{TABLE NAME}}
 
-*/
